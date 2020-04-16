@@ -3,6 +3,7 @@
 #Weather App
 
 #Getting weather information using CoreLocation.
+
 #Also you can search for weather info for any city in the world.
 
 
