@@ -1,6 +1,6 @@
 ## Clima-App
 
-###Weather App
+### Clima is a Weather App
 
 Getting weather information using CoreLocation.
 
