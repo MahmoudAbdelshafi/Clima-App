@@ -1,10 +1,10 @@
 ## Clima-App
 
-#Weather App
+###Weather App
 
-#Getting weather information using CoreLocation.
+Getting weather information using CoreLocation.
 
-#Also you can search for weather info for any city in the world.
+Also you can search for weather info for any city in the world.
 
 
-<img src= "images/main.png" width="150" > <img src= "images/search.png" width="150" >
+<img src= "images/main.png" width="250" > <img src= "images/search.png" width="250" >
